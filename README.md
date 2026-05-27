@@ -1,4 +1,4 @@
-# kidbright mqtt
+# kidbrights mqtt
 
 **Description**: This project is a kidbright MicroPython to run push the sensors data to mqtt.
 
